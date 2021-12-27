@@ -22,7 +22,8 @@
 
 ## :house: About the project
 
-This project created for a company in the beachwear business.
+This is the currency and cryptocurrency conversion project.
+
 <br>
 
 ## :computer: Technologies
