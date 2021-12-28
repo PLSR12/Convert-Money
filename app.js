@@ -52,22 +52,22 @@ changeCurrency = () => {
 
     if (select.value === "US$ Dólar americano") {
         currencyName.innerHTML = "Dolar americano"
-        currencyImg.src = "../assets/estados-unidos (1) 1.svg"
+        currencyImg.src = "https://plsr12.github.io/Convert-Money/assets/estados-unidos%20(1)%201.svg"
     }
 
     if (select.value === "€ Euro") {
         currencyName.innerHTML = "Euro"
-        currencyImg.src = "../assets/Euro.svg"
+        currencyImg.src = "https://plsr12.github.io/Convert-Money/assets/Euro.svg"
     }
 
     if (select.value === "₿ Bitcoin") {
         currencyName.innerHTML = "Bitcoin"
-        currencyImg.src = "../assets/bitcoin.svg"
+        currencyImg.src = "https://plsr12.github.io/Convert-Money/assets/bitcoin.svg"
     }
 
     if (select.value === "Ethereum") {
         currencyName.innerHTML = "Ethereum"
-        currencyImg.src = "../assets/Ethereum.png"
+        currencyImg.src = "https://plsr12.github.io/Convert-Money/assets/Ethereum.png"
     }
 
     convertValues()
